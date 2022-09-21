@@ -1,0 +1,15 @@
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0\GestStagiaire.exe
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0\GestStagiaire.deps.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0\GestStagiaire.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\GestStagiaire.csproj.AssemblyReference.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\GestStagiaire.AssemblyInfoInputs.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\GestStagiaire.AssemblyInfo.cs
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\GestStagiaire.csproj.CoreCompileInputs.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\refint\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\GestStagiaire.genruntimeconfig.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0\ref\GestStagiaire.dll

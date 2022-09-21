@@ -1,0 +1,37 @@
+3
+STAG001
+Simple
+SONTIA
+LIONEL
+H
+12/10/1993
+YAOUNDE
+1231231241
+698765434
+sontialionel@gmail.com
+admin
+False
+STAG002
+Complexe
+WATO TAKOU
+GUY ARMEL
+H
+12/06/1993
+SOHOCK
+110289226
+698813857
+armeltakou@gmail.com
+root
+True
+STAG003
+Simple
+TEST
+STAGIAIRE
+F
+11/09/1990
+DOUALA
+KIT312
+678908978
+teststagiaire@gmail.com
+test
+True

@@ -1,0 +1,348 @@
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\refint\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\refint\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+D:\Projets\SONTIA\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (1)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier2 (2)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier2\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+3
+1
+AZ-COORPORATION
+676564534
+Biyem Assi, Yaoundé
+az-coorporation@gmail.com
+123456
+32765
+True
+2
+Ecole Supérieur des Technologies Appliquées
+698098767
+Douala
+esta@gmail.com
+876543
+45678
+True
+3
+SOCATRACK SARL
+222456890
+Tsinga, Yaounde
+info@socatrack.com
+9876543
+15310
+True

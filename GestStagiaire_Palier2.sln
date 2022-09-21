@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestStagiaire", "GestStagiaire\GestStagiaire.csproj", "{A002F9B5-7703-4600-B63B-A2AE03B318AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7F2E6E7E-AC98-4860-922A-4725F49F383F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblio", "Biblio\Biblio.csproj", "{2499ABE4-1E40-45C1-A475-F6D20E6433C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A002F9B5-7703-4600-B63B-A2AE03B318AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A002F9B5-7703-4600-B63B-A2AE03B318AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A002F9B5-7703-4600-B63B-A2AE03B318AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A002F9B5-7703-4600-B63B-A2AE03B318AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2499ABE4-1E40-45C1-A475-F6D20E6433C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2499ABE4-1E40-45C1-A475-F6D20E6433C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2499ABE4-1E40-45C1-A475-F6D20E6433C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2499ABE4-1E40-45C1-A475-F6D20E6433C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B87CE0AE-4183-42AB-87C5-CEDECDBE5595}
+	EndGlobalSection
+EndGlobal
